@@ -1,0 +1,24 @@
+{
+  "name": "minecraft-moniter",
+  "version": "1.0.0",
+  "description": "Monitoring Minecraft servers",
+  "keywords": [
+    "minecraft",
+    "nodejs",
+    "discord",
+    "webhook",
+    "java",
+    "bedrock"
+  ],
+  "license": "Apache-2.0",
+  "author": "Slownover",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "net": "^1.0.2"
+  }
+}
